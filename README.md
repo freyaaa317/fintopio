@@ -1,10 +1,4 @@
 
-# 💲 FINTOPIO-HHH ![NOTICE](https://img.shields.io/badge/DO%20WITH%20YOUR%20OWN%20RISK%20%7C%20CEK%20SECARA%20BERKALA%20-f54842)
-
-<div align="center">
-	<img src="https://raw.githubusercontent.com/raihante/fintopioh/main/joinus.gif">
-</div>
-
 
 ## ✅ Features
 
@@ -15,10 +9,6 @@
 - [x]  Auto Farm
 - [x] Auto Complete Task  
 
-
-## 🚀 Authors
-
-- [@fakinsit | R E G E X](https://www.t.me/fakinsit)
 
 
 ## ⚙️ Installation
@@ -38,6 +28,9 @@ Buka quentod.txt paste query/user id telegram panjenengan sedoyo
 Pastikan 'python' sudah ter-install di pc / hp kalian, buka terminal atau command prompt
 
 ```bash
+  git clone https://github.com/freyaaa317/fintopio.git
+  cd fintopio
+
   python -m pip install -r requirements.txt
 ```
     
