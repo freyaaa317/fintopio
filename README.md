@@ -33,7 +33,8 @@ Pastikan 'python' sudah ter-install di pc / hp kalian, buka terminal atau comman
 
   python -m pip install -r requirements.txt
 ```
-    
+ isi query panjenengan ke quentod.txt
+ 
 ## ▶️ Running
 Jika query/user id dan requirements sudah diisi dan terinstall maka selanjutnya ketik command di bawah ini
 
